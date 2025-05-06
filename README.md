@@ -70,8 +70,8 @@ A responsive, feature-rich Netflix clone built with **React** and **Firebase**, 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/netflix-clone.git
+git clone https://github.com/abhisheek2/netflix-clone.git
 cd netflix-clone
 npm install
-npm start
+npm run dev
 ```
