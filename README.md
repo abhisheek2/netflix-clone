@@ -3,7 +3,7 @@
 
 A responsive, feature-rich Netflix clone built with **React** and **Firebase**, allowing users to sign up, log in, and experience a streamlined media browsing experience.
 
-> **Live Demo**: _[Coming Soon or Add Link]_
+> **Live Demo**: `https://abhishek-netflicx.netlify.app/`
 
 ---
 
