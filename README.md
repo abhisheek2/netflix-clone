@@ -7,6 +7,22 @@ A responsive, feature-rich Netflix clone built with **React** and **Firebase**, 
 
 ---
 
+## 🚀 Technologies Used
+
+- **[React-Toastify](https://fkhadra.github.io/react-toastify/introduction)**  
+  Used for displaying error messages and notifications during user login and signup flows.
+
+- **[Firebase](https://firebase.google.com/)**  
+  Implemented Firebase Authentication for secure user login/signup and Firebase Realtime Database for data storage.
+
+- **[TMDB API](https://www.themoviedb.org/documentation/api)**  
+  Integrated The Movie Database API to fetch real-time movie data.
+
+- **Custom Code**  
+  Most of the UI and application logic were built by me from scratch, with some occasional help and resources for guidance.
+
+
+
 ## 🔥 Tech Stack
 
 - **Frontend**: React, CSS, JSX
@@ -75,3 +91,5 @@ cd netflix-clone
 npm install
 npm run dev
 ```
+
+
